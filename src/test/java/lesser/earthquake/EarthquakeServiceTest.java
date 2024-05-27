@@ -1,8 +1,8 @@
 package lesser.earthquake;
 
-import org.junit.jupiter.api.Test;
 import lesser.earthquake.json.FeatureCollection;
 import lesser.earthquake.json.Properties;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.testng.Assert.assertNotEquals;
